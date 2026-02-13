@@ -1,0 +1,11 @@
+model: dashscope/qwen3-coder-plus
+
+api-key:
+  - dashscope=sk-7588a6493e2744349975a93bd13fd1cd
+
+architect: true
+# edit-format: diff
+cache-prompts: true
+map-tokens: 8192
+cache-prompts: true
+chat-language: zh-CN
